@@ -16,4 +16,4 @@ git# Entre portafolio M2
 
 #### git push origin main/master --> subimos los cambios al repositorio remoto(github)
 
-
+#Mi primera pagina e-ecomerce mi pagina trata sobre una tienda de sushi, la cual le implente un carrito, tarjetas con los productos entre otras cosas..
