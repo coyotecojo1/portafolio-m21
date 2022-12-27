@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+p{
+    text-align: center;
+}
+
+.title-c {
+	text-align: center;
+    margin-top: 1.5rem;
+	margin-bottom: 1.5em;
+	text-decoration: underline #db7482 0.2em;
+	/* SEPARA EL SUBRAYADO DEL TEXTO */
+	text-underline-offset: 0.3em;
+}
+
