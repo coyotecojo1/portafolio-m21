@@ -129,3 +129,5 @@ function vaciarCarrito() {
           contenedorCarrito.removeChild(contenedorCarrito.firstChild);
       }
 }
+
+

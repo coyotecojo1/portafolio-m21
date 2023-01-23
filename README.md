@@ -4,7 +4,7 @@ git# Entre portafolio M2
 
 ## LINK GITHUB PAGES
 
-[Deploy github pages] (git@github.com:coyotecojo1/portafolio-m21.git)
+[Deploy github pages] (github.com:coyotecojo1/portafolio-m21.git)
 
 ## MI PRIMERA TIENDA ECCOMERCE
 
